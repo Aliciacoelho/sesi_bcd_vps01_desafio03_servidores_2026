@@ -65,7 +65,7 @@
 
 # Script SQL DDL (Desenvolvimanto: Criação do Banco de dados)
 
-```
+```sql
 CREATE DATABASE IF NOT EXISTS provisionamento_acessos;
 USE provisionamento_acessos;
 
@@ -120,7 +120,7 @@ CREATE TABLE acesso (
 
 # Script SQL DML(Manipulação: População com dados de teste)
 
-````
+````sql
 USE provisionamento_acessos;
 
 INSERT INTO usuario (nome, email, cargo, departamento, status) VALUES
