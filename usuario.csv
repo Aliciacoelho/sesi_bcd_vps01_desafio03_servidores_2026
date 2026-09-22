@@ -1,0 +1,4 @@
+id,nome,email,cargo,departamento,status
+1,Ana Guedes,ana.guedes@email.com,Desenvolvedora,TI,Ativo
+2,Marcos Dias,marcos.dias@email.com,Analista,TI,Ativo
+3,Beatriz Carvalho,beatriz.carvalho@email.com,Administradora,Infraestrutura,Ativo
